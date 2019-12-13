@@ -1,8 +1,6 @@
 # Endangered-Animal-Promotion-Website
 
-![슬라이드1](https://user-images.githubusercontent.com/30555849/70396625-217f8d00-1a4e-11ea-97c2-f808216542d7.JPG)
-![슬라이드2](https://user-images.githubusercontent.com/30555849/70396639-26444100-1a4e-11ea-89b0-f5ef53f263b5.JPG)
-![슬라이드3](https://user-images.githubusercontent.com/30555849/70396640-26444100-1a4e-11ea-9fd9-9fdce5b23d46.JPG)
+
 ![슬라이드4](https://user-images.githubusercontent.com/30555849/70396626-23e1e700-1a4e-11ea-8151-c4001a119935.JPG)
 ![슬라이드5](https://user-images.githubusercontent.com/30555849/70396627-247a7d80-1a4e-11ea-9880-a06bc652edd4.JPG)
 ![슬라이드6](https://user-images.githubusercontent.com/30555849/70396628-247a7d80-1a4e-11ea-812d-6cc10668d9f6.JPG)
